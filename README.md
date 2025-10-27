@@ -38,7 +38,8 @@ Arhitectura-sistemelor-de-calcul/
 | Nr | Denumire laborator | Status |
 |----|-------------------|--------|
 | 1  | Conversia numerelor între baze | ✅ Finalizat |
-| 2  | Urmează... | ⏳ |
+| 2  | Conversia numerelor în virgulă fixă | ✅ Finalizat |
+| 3  | Urmează... | ⏳ |
 
 ---
 
